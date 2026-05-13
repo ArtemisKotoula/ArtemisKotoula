@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ArtemisKotoula&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemisKotoula&theme=transparent&count_private=true&border_radius=10&locale=en" alt="" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ArtemisKotoula&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
-</div>
+<p align="center">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemisKotoula&theme=transparent&count_private=true&border_radius=10&locale=en" alt="" />
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=ArtemisKotoula&theme=transparent&show_icons=true&border_radius=10" />
+</p>
 
-<hr>
+</div>
