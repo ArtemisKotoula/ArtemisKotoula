@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align=center>
 <p align="center">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ArtemisKotoula&theme=transparent&count_private=true&border_radius=10&locale=en" alt="" />
-  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=ArtemisKotoula&theme=transparent&show_icons=true&border_radius=10" />
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=ArtemisKotoula&theme=transparent&show_icons=true&border_radius=10&langs_count=10" />
 </p>
 
 </div>
