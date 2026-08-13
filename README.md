@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>>
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
   </p>
 <p align="center">
   <img height="250" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=ArtemisKotoula&theme=transparent&show_icons=true&border_radius=10&langs_count=10" />
