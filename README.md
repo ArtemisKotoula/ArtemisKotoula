@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
   </p>
 <p align="center">
-  <img height="250" src="https://github-readme-stats-emikot1.vercel.app/api/top-langs/?username=ArtemisKotoula&count_private=true&theme=transparent&show_icons=true&border_radius=10&langs_count=10"/>
+  <img height="300" alt="Top Languages" src="https://github-readme-stats-emikot1.vercel.app/api/top-langs/?username=ArtemisKotoula&amp;count_private=true&amp;theme=transparent&amp;show_icons=true&amp;border_radius=10&amp;langs_count=10">
 </p>
 </div>
 
